@@ -4,7 +4,7 @@ ARM M0 Emulator!
 Introduction
 -------------
 
-This is a implementation of the ARM M0 emulator, done as an individual project for COMP 554 at Rice University. The emulator is not cycle accurate and some features are not implemented. The ARM M0 specification is located at the following location :
+This is an implementation of the ARM M0 emulator, done as an individual project for COMP 554 at Rice University. The emulator is not cycle accurate and some features are not implemented. The ARM M0 specification is located at the following location :
 http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0432c/CHDCICDF.html .
 
 | Symbol | Parameters          | Description                                    | Status      |
